@@ -1,0 +1,7 @@
+C:\Users\Ákos\source\repos\ClassesExercise2\ClassesExercise2\bin\Debug\ClassesExercise2.exe.config
+C:\Users\Ákos\source\repos\ClassesExercise2\ClassesExercise2\bin\Debug\ClassesExercise2.exe
+C:\Users\Ákos\source\repos\ClassesExercise2\ClassesExercise2\bin\Debug\ClassesExercise2.pdb
+C:\Users\Ákos\source\repos\ClassesExercise2\ClassesExercise2\obj\Debug\ClassesExercise2.csprojAssemblyReference.cache
+C:\Users\Ákos\source\repos\ClassesExercise2\ClassesExercise2\obj\Debug\ClassesExercise2.csproj.CoreCompileInputs.cache
+C:\Users\Ákos\source\repos\ClassesExercise2\ClassesExercise2\obj\Debug\ClassesExercise2.exe
+C:\Users\Ákos\source\repos\ClassesExercise2\ClassesExercise2\obj\Debug\ClassesExercise2.pdb
